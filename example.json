@@ -1,0 +1,9 @@
+content="Jesus Christ is a central figure in Christianity, regarded by Christians as the Son of God and the Savior of humanity. According to Christian belief, he was born in Bethlehem around 4 to 6 BCE, lived in the ancient region of Judea, and performed teachings, miracles, and acts of compassion. His teachings emphasize love, forgiveness, humility, and the coming of God's kingdom. Jesus was crucified under the Roman governor Pontius Pilate, died, and is believed by Christians to have been resurrected three days after his death, signifying victory over sin and death. His life and teachings have had profound spiritual, cultural, and historical influence worldwide." additional_kwargs={'refusal': None
+} response_metadata={'token_usage': {'completion_tokens': 133, 'prompt_tokens': 12, 'total_tokens': 145, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0
+        }, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0
+        }
+    }, 'model_name': 'gpt-4.1-nano-2025-04-14', 'system_fingerprint': 'fp_eede8f0d45', 'id': 'chatcmpl-BSnfKyz7qWpNoaeFBqsyfmoCdepsC', 'finish_reason': 'stop', 'logprobs': None
+} id='run-be1b05c4-913c-4bc0-ab17-68acbd3e6ce7-0' usage_metadata={'input_tokens': 12, 'output_tokens': 133, 'total_tokens': 145, 'input_token_details': {'audio': 0, 'cache_read': 0
+    }, 'output_token_details': {'audio': 0, 'reasoning': 0
+    }
+}
